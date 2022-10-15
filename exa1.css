@@ -1,0 +1,146 @@
+body{
+    background: radial-gradient(#0033ff,#0099ff,#ffffff);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:0px;
+    color:#000000;
+
+}
+
+main{
+    width: 80%;
+    background:#ffffff;
+    margin:auto;
+   
+   
+}
+
+header{
+    width: 100%;
+    background: radial-gradient(#99ccff,#ffffff);
+    justify-content: space-between;
+    align-items: center;
+    
+}
+header > fieldset{
+    margin-top:30px;
+    margin-left:30px;
+    margin-right: 30px;
+    border-style: none;
+    
+    justify-content: space-between;
+    align-items: center;
+    
+}
+h1{
+   color:#0000cc;
+}
+
+#title{
+    text-align: center;
+    font-size: 50px;
+    
+}
+p{}
+nav > ul {
+display:flex;
+justify-content:space-around;
+height: 50%;
+font-size: 25px;
+margin-top:-15px;}
+nav> ul > li {
+    color:#000000;
+    font-size: 25px;
+    font-weight:bold;
+}
+nav{padding-bottom: 5px;}
+    
+
+ul{}
+div{}
+figure{}
+img{
+    border-radius: 10%;
+    margin-top:30px;
+    margin-left:30px;
+    margin-right:30px;
+}
+fieldset{
+    border-color:yellow;
+    font-style:oblique;
+    border-style: none;
+}
+
+figcaption{
+
+    display:flex;
+    justify-content:space-around;
+    font-size: 40px; 
+    border-radius: 0.1%;
+    background: radial-gradient(#99ccff,#ffffff);
+    
+}
+fieldset{}
+section{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+h3{
+display:flex;
+justify-content:space-around;
+height: 50%;
+font-size: 25px;
+margin-top:-15px;}
+
+nav> ul {
+
+    text-align: center;
+   
+}
+fieldset{
+    text-align:justify;
+
+    
+}
+blockquote{
+    display:flex;
+    justify-content:space-around;
+    font-size: 19px; 
+    border-radius: 15%;
+    background: radial-gradient(#cccc99,#ffffcc,#ffffff);
+}
+p{
+
+font-size: 18px; 
+background:#000000;
+border-radius: 10%;
+color:#ffff99;
+text-align: center;
+
+}
+cite{
+    font-size: 25px;
+    text-align:center;
+    border-color:yellow;
+    font-style:oblique;
+    color:#ffff99;
+
+}
+#href{
+    font-size: 5px;
+    text-align: center;
+    border-color:yellow;
+
+
+}
+footer{
+    display:grid;
+    text-align: center; 
+    justify-content:space-around;
+    font-size: 20px;
+   
+a{}
+
+
+
+
+
